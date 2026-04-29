@@ -1,16 +1,20 @@
-# Simple Calculator
+# 🧮 Simple Calculator
 A basic calculator built with HTML, CSS and JavaScript.
 
-## Features
+## 🚀 Features
 - Additional, Subtraction, Multiplication, Division
 - Clean UI
 - Responsive design
 ## How to use
+```
 Open 'calculator.html' in your browser
             Or
 View it live: [Github Pages here]
+```
 
-## Built with
+## 🛠️ Built with
 - HTML
 - CSS
 - Javascript
+## AUTHOR
+### Remax Ningthoujam Meetei
